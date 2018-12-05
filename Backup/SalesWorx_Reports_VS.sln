@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SalesWorx_Reports_VS", "..\Salesworx_VS_Reports_V2\SalesWorx_Reports_VS\SalesWorx_Reports_VS.rptproj", "{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Production|Default = Production|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.Debug|Default.ActiveCfg = Debug
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.Debug|Default.Build.0 = DebugLocal
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.Debug|Default.Deploy.0 = DebugLocal
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.DebugLocal|Default.Build.0 = DebugLocal
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.Production|Default.ActiveCfg = Production
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.Production|Default.Build.0 = Production
+		{51292A9D-6AD9-4304-BBA6-CFE65DA9D711}.Production|Default.Deploy.0 = Production
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

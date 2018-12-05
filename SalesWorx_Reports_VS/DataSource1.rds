@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=UCS-PROJECT01\MSSQL2008R2;Initial Catalog=SalesWorx_BO_VS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>cf3718b0-1445-48a2-87eb-089ca94397c2</DataSourceID>
+</RptDataSource>

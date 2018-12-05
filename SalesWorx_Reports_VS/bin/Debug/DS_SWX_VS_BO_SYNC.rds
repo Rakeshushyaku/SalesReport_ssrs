@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_SWX_VS_BO_SYNC">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=ucssolutions.no-ip.biz\SQLEXPRESS_2014,3536;Initial Catalog=SalesWorx_BO_Sync_VS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>3bbdbda6-2d25-4281-abd0-a48aa8d52def</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <Description />
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>DS_SWX_VS_BO</DataSourceReference>
+      <CommandType>StoredProcedure</CommandType>
+      <CommandText>Rep_DelayedCustomerCountByOrg</CommandText>
+    </Query>
+  </DataSet>
+</SharedDataSet>
